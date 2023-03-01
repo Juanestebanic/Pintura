@@ -1,0 +1,16 @@
+body{
+    background-image: url(lienzo.jpg);
+    background-size: 100%;
+    background-position: center;
+    overflow:hidden;
+}
+#papel{
+    background-color: yellow;
+    border-style:dotted;
+    border-width: 6px;
+    border-color: blue;
+    
+}
+#letras{
+    color: white;
+}
